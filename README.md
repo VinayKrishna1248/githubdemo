@@ -1,4 +1,4 @@
 # githubdemo
 This is GitHub demo.
 <br>
-Author : Vinay
+Author : Vinay krishna
